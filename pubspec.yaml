@@ -4,7 +4,7 @@ version: 0.0.3
 repository: https://www.github.com/jamiewest/sse_channel
 
 environment:
-  sdk: ^3.10.0
+  sdk: ^3.11.0
   flutter: '>=3.3.0'
 
 dependencies:
