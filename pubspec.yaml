@@ -5,7 +5,6 @@ repository: https://www.github.com/jamiewest/sse_channel
 
 environment:
   sdk: ^3.11.0
-  flutter: '>=3.3.0'
 
 dependencies:
   async: ^2.13.1
