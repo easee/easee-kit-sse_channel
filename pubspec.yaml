@@ -12,7 +12,7 @@ dependencies:
   http: ^1.6.0 
   pool: ^1.5.3
   sse: ^4.2.0
-  stream_channel: ^2.1.1
+  stream_channel: ^2.1.4
   uuid: ^4.0.0
 
 dev_dependencies:
